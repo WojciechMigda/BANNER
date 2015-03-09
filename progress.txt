@@ -1,2 +1,5 @@
 Day 1:
 - cloned repo, lol,
+- built the code, trained it (dude, 1 hour!!),
+- applied the baseline code to the testcases (all 2300 of 'em),
+- baseline scores 799372.50, the target is 817866
